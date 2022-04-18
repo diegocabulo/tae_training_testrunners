@@ -1,0 +1,7 @@
+<suite name="example test suite" verbose="1">
+    <test name="example run">
+        <classes>
+            <class name="com.globant.AppTest"></class>
+        </classes>
+    </test>
+</suite>
