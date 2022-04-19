@@ -1,9 +1,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="example test suite" verbose="1">
-    <test name="example run">
+<suite name="Change Profile picture" verbose="1">
+    <test name="Change Profile picture">
         <groups>
             <run>
-                <include name="group1"></include>
+                <include name="group2"></include>
             </run>
         </groups>
         <classes>
